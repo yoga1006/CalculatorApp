@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0445C6AB28328F5B00C4A8F7 /* ServiceChargeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445C6AA28328F5B00C4A8F7 /* ServiceChargeViewController.swift */; };
+		0445C6AD28328F8D00C4A8F7 /* ShippingFeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445C6AC28328F8D00C4A8F7 /* ShippingFeeViewController.swift */; };
 		04467A072831F2FE00A6E6E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04467A062831F2FE00A6E6E0 /* AppDelegate.swift */; };
 		04467A092831F2FE00A6E6E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04467A082831F2FE00A6E6E0 /* SceneDelegate.swift */; };
 		04467A0B2831F2FE00A6E6E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04467A0A2831F2FE00A6E6E0 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0445C6AA28328F5B00C4A8F7 /* ServiceChargeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceChargeViewController.swift; sourceTree = "<group>"; };
+		0445C6AC28328F8D00C4A8F7 /* ShippingFeeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShippingFeeViewController.swift; sourceTree = "<group>"; };
 		04467A032831F2FE00A6E6E0 /* CalculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04467A062831F2FE00A6E6E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04467A082831F2FE00A6E6E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				04467A0F2831F30000A6E6E0 /* Assets.xcassets */,
 				04467A112831F30000A6E6E0 /* LaunchScreen.storyboard */,
 				04467A142831F30000A6E6E0 /* Info.plist */,
+				0445C6AA28328F5B00C4A8F7 /* ServiceChargeViewController.swift */,
+				0445C6AC28328F8D00C4A8F7 /* ShippingFeeViewController.swift */,
 			);
 			path = CalculatorApp;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				04467A0B2831F2FE00A6E6E0 /* ViewController.swift in Sources */,
 				04467A072831F2FE00A6E6E0 /* AppDelegate.swift in Sources */,
+				0445C6AD28328F8D00C4A8F7 /* ShippingFeeViewController.swift in Sources */,
+				0445C6AB28328F5B00C4A8F7 /* ServiceChargeViewController.swift in Sources */,
 				04467A092831F2FE00A6E6E0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
